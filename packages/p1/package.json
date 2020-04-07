@@ -1,3 +1,5 @@
 {
-  "name":"p1"
+  "name":"p1",
+  "private": true
+
 }
